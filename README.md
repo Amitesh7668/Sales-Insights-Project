@@ -4,8 +4,6 @@
 
 * <b>Os :</b> Windows 10
 * <b>RAM :</b> 4GB
-* <b>Python version 3.0 or latest must be required</b>
-* ```Use Jupyter Notebook (recommended)```
 
 # About this file
 
