@@ -1,10 +1,5 @@
 # Sales-Insights-Project
 
-# System Requirements
-
-* <b>Os :</b> Windows 10
-* <b>RAM :</b> 4GB
-
 # About this file
 
 Sales Insights – Brick & motor business [Power BI | SQL]
